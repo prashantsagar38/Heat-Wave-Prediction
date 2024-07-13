@@ -19,6 +19,6 @@ heat_wave = pd.read_csv(r'C:\Users\psagar\Downloads\Data Analytics Projects\Pyth
 heat_wave
 ```
 ![image](https://github.com/user-attachments/assets/65477020-3749-4231-b00e-6aff9dee0e10)
-
+<br/>
 ![image](https://github.com/user-attachments/assets/78d79f5c-cd35-416f-bf9f-82c85929deae)
-
+<br/>
