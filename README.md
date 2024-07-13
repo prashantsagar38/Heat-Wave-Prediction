@@ -33,6 +33,7 @@ heat_wave.duplicated().sum()
 0
 <br/>
 #identifying null values
+<br/>
 heat_wave.isnull().sum()
 <br/>
 Present_Tmax        61
