@@ -18,3 +18,13 @@ warnings.filterwarnings('ignore')
 heat_wave = pd.read_csv(r'C:\Users\psagar\Downloads\Data Analytics Projects\Python\Python Projects\Heat Wave Prediction\heat_wave.csv')
 heat_wave
 ```
+![image](https://github.com/user-attachments/assets/65477020-3749-4231-b00e-6aff9dee0e10)
+
+<br/>
+heat_wave.shape
+![image](https://github.com/user-attachments/assets/3faf99df-c593-4486-8189-024c3e480a0a)
+
+<br/>
+
+
+
