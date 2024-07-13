@@ -22,6 +22,7 @@ heat_wave
 
 
 heat_wave.shape
+<br/>
 ![image](https://github.com/user-attachments/assets/3423d878-e14d-4bf7-9469-6fd2d58cceb8)
 <br/>
 heat_wave.columns
