@@ -34,29 +34,53 @@ heat_wave.duplicated().sum()
 <br/>
 #identifying null values
 heat_wave.isnull().sum()
+<br/>
 Present_Tmax        61
+<br/>
 Present_Tmin        61
+<br/>
 LDAPS_RHmin         65
+<br/>
 LDAPS_RHmax         65
+<br/>
 LDAPS_Tmax_lapse    65
+<br/>
 LDAPS_Tmin_lapse    65
+<br/>
 LDAPS_WS            65
+<br/>
 LDAPS_LH            65
+<br/>
 LDAPS_CC1           65
+<br/>
 LDAPS_CC2           65
+<br/>
 LDAPS_CC3           65
+<br/>
 LDAPS_CC4           65
+<br/>
 LDAPS_PPT1          65
+<br/>
 LDAPS_PPT2          65
+<br/>
 LDAPS_PPT3          65
+<br/>
 LDAPS_PPT4          65
+<br/>
 lat                  0
+<br/>
 lon                  0
+<br/>
 DEM                  0
+<br/>
 Slope                0
+<br/>
 Solar radiation      0
+<br/>
 Next_Tmax           22
+<br/>
 dtype: int64
+<br/>
 
 
 
