@@ -29,7 +29,9 @@ heat_wave.columns
 ![image](https://github.com/user-attachments/assets/d982e380-e697-497a-83e6-dbeb30637714)
 <br/>
 #identifying duplicates
+<br/>
 heat_wave.duplicated().sum()
+<br/>
 0
 <br/>
 #identifying null values
