@@ -27,7 +27,36 @@ heat_wave.shape
 <br/>
 heat_wave.columns
 ![image](https://github.com/user-attachments/assets/d982e380-e697-497a-83e6-dbeb30637714)
-
+<br/>
+#identifying duplicates
+heat_wave.duplicated().sum()
+0
+<br/>
+#identifying null values
+heat_wave.isnull().sum()
+Present_Tmax        61
+Present_Tmin        61
+LDAPS_RHmin         65
+LDAPS_RHmax         65
+LDAPS_Tmax_lapse    65
+LDAPS_Tmin_lapse    65
+LDAPS_WS            65
+LDAPS_LH            65
+LDAPS_CC1           65
+LDAPS_CC2           65
+LDAPS_CC3           65
+LDAPS_CC4           65
+LDAPS_PPT1          65
+LDAPS_PPT2          65
+LDAPS_PPT3          65
+LDAPS_PPT4          65
+lat                  0
+lon                  0
+DEM                  0
+Slope                0
+Solar radiation      0
+Next_Tmax           22
+dtype: int64
 
 
 
