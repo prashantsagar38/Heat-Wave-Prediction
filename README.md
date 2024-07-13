@@ -21,9 +21,9 @@ heat_wave
 ![image](https://github.com/user-attachments/assets/65477020-3749-4231-b00e-6aff9dee0e10)
 
 <br/>
-```{r}
-heat_wave.shape
-![image](https://github.com/user-attachments/assets/3faf99df-c593-4486-8189-024c3e480a0a)
-```
+
+![image](https://github.com/user-attachments/assets/2cbdeefd-f755-4f7e-b1b4-212f244ffeda)
+
+<br/>
 
 
